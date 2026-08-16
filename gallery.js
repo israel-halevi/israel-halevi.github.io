@@ -5,7 +5,8 @@ fetch('paintings.json')
 
         paintings.forEach(painting => {
             const article = document.createElement('article');
-
+            article.className = 'painting';
+            
             article.innerHTML = `
                 <img src="${painting.image}" alt="${painting.title}">
                 <h2>${painting.title}</h2>
