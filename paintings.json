@@ -70,5 +70,137 @@
     },
     "material": "Oil on canvas",
     "image": "images/1564.jpg"
+  },
+  {
+    "id": "007",
+    "title": "Meron mountain",
+    "year": 2015,
+    "size": {
+      "width": 55,
+      "height": 75,
+      "unit": "cm"
+    },
+    "material": "Oil on canvas",
+    "image": "images/1597.jpg"
+  },
+  {
+    "id": "008",
+    "title": "Drapery with Spoon",
+    "year": 2019,
+    "size": {
+      "width": 49,
+      "height": 34,
+      "unit": "cm"
+    },
+    "material": "Oil on canvas",
+    "image": "images/1618.jpg"
+  },
+  {
+    "id": "009",
+    "title": "Summer in Shomron",
+    "year": 2017,
+    "size": {
+      "width": "40?",
+      "height": "30?",
+      "unit": "cm"
+    },
+    "material": "Oil on canvas",
+    "image": "images/1633.jpg"
+  },
+  {
+    "id": "010",
+    "title": "Bench beneath a tree",
+    "year": 2020,
+    "size": {
+      "width": 35,
+      "height": 42,
+      "unit": "cm"
+    },
+    "material": "Pencil on paper",
+    "image": "images/4716.jpg"
+  },
+  {
+    "id": "011",
+    "title": "Child's head",
+    "year": 2021,
+    "size": {
+      "width": 21,
+      "height": 28.5,
+      "unit": "cm"
+    },
+    "material": "Pencil on paper",
+    "image": "images/20221116_115424.jpg"
+  },
+  {
+    "id": "012",
+    "title": "Reaching hand",
+    "year": 2021,
+    "size": {
+      "width": 21,
+      "height": 28.5,
+      "unit": "cm"
+    },
+    "material": "Pencil on paper",
+    "image": "images/20221116_115636.jpg"
+  },
+  {
+    "id": "013",
+    "title": "Relaxed hand",
+    "year": 2021,
+    "size": {
+      "width": 21,
+      "height": 28.5,
+      "unit": "cm"
+    },
+    "material": "Pencil on paper",
+    "image": "images/20221116_115902.jpg"
+  },
+  {
+    "id": "014",
+    "title": "Outstretched hand",
+    "year": 2021,
+    "size": {
+      "width": 21,
+      "height": 28.5,
+      "unit": "cm"
+    },
+    "material": "Pencil on paper",
+    "image": "images/IMG_E1586_21cm_28.5cm.jpg"
+  },
+  {
+    "id": "015",
+    "title": "Neighbors",
+    "year": 2017,
+    "size": {
+      "width": 80,
+      "height": 60,
+      "unit": "cm"
+    },
+    "material": "Oil on canvas",
+    "image": "images/IMG_E1596.jpg"
+  },
+  {
+    "id": "016",
+    "title": "Lit kitchen",
+    "year": 2019,
+    "size": {
+      "width": 54.5,
+      "height": 79,
+      "unit": "cm"
+    },
+    "material": "Oil on canvas",
+    "image": "images/IMG_E1601.jpg"
+  },
+  {
+    "id": "017",
+    "title": "A thorn",
+    "year": 2024,
+    "size": {
+      "width": 25,
+      "height": 39.5,
+      "unit": "cm"
+    },
+    "material": "Oil on canvas",
+    "image": "images/IMG-2775.jpg"
   }
 ]
