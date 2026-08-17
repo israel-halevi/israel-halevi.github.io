@@ -9,7 +9,7 @@ fetch('paintings.json')
             
             article.innerHTML = `
                 <img src="${painting.image}" alt="${painting.title}">
-                <p style="margin-top: 12px;"><strong style="font-size: 1.15em;">${painting.title}</strong></p>
+                <p style="margin-top: 10px;"><strong style="font-size: 1.15em;">${painting.title}</strong></p>
                 <p>${painting.size.width} × ${painting.size.height} ${painting.size.unit}</p>
                 <p>${painting.material}, ${painting.year}</p>
             `;
