@@ -226,5 +226,17 @@
     },
     "material": "Oil on canvas",
     "image": "images/IMG_E1574.jpg"
+  },
+  {
+    "id": "020",
+    "title": "Pardes Hanna field",
+    "year": 2025,
+    "size": {
+      "width": 80,
+      "height": 100,
+      "unit": "cm"
+    },
+    "material": "Oil on canvas",
+    "image": "images/IMG_5450.jpg"
   }
 ]
