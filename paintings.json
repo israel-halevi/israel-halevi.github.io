@@ -250,5 +250,17 @@
     },
     "material": "Acrylic on canvas",
     "image": "images/IMG_6037.jpg"
+  },
+  {
+    "id": "021",
+    "title": "Face at the edge",
+    "year": 2020,
+    "size": {
+      "width": 21,
+      "height": 28.5,
+      "unit": "cm"
+    },
+    "material": "Pencil on paper",
+    "image": "images/IMG_5060.jpg"
   }
 ]
