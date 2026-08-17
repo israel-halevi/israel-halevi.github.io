@@ -80,7 +80,7 @@
       "height": 75,
       "unit": "cm"
     },
-    "material": "Oil on canvas",
+    "material": "Acrylic on canvas",
     "image": "images/1597.jpg"
   },
   {
@@ -92,7 +92,7 @@
       "height": 34,
       "unit": "cm"
     },
-    "material": "Oil on canvas",
+    "material": "Pencil on paper",
     "image": "images/1618.jpg"
   },
   {
@@ -104,7 +104,7 @@
       "height": "30?",
       "unit": "cm"
     },
-    "material": "Oil on canvas",
+    "material": "Acrylic on canvas",
     "image": "images/1633.jpg"
   },
   {
@@ -176,7 +176,7 @@
       "height": 60,
       "unit": "cm"
     },
-    "material": "Oil on canvas",
+    "material": "Acrylic on canvas",
     "image": "images/IMG_E1596.jpg"
   },
   {
@@ -188,7 +188,7 @@
       "height": 79,
       "unit": "cm"
     },
-    "material": "Oil on canvas",
+    "material": "Acrylic on canvas",
     "image": "images/IMG_E1601.jpg"
   },
   {
@@ -224,7 +224,7 @@
       "height": 70,
       "unit": "cm"
     },
-    "material": "Oil on canvas",
+    "material": "Acrylic on canvas",
     "image": "images/IMG_E1574.jpg"
   },
   {
@@ -238,5 +238,17 @@
     },
     "material": "Oil on canvas",
     "image": "images/IMG_5450.jpg"
+  },
+  {
+    "id": "021",
+    "title": "Flowers on a tree",
+    "year": 2016,
+    "size": {
+      "width": "70?",
+      "height": "55?",
+      "unit": "cm"
+    },
+    "material": "Acrylic on canvas",
+    "image": "images/IMG_6037.jpg"
   }
 ]
