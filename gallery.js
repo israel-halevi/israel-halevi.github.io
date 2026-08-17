@@ -9,9 +9,9 @@ fetch('paintings.json')
             
             article.innerHTML = `
                 <img src="${painting.image}" alt="${painting.title}">
-                <h2>${painting.title}</h2>
                 <p>${painting.size.width} × ${painting.size.height} ${painting.size.unit}</p>
                 <p>${painting.material}, ${painting.year}</p>
+                <h3>${painting.title}</h3>
             `;
 
             gallery.appendChild(article);
