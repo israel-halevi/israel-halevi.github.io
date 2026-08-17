@@ -14,7 +14,7 @@
   {
     "id": "002",
     "title": "Young woman",
-    "year": "~2019",
+    "year": 2019,
     "size": {
       "width": 46,
       "height": 48,
@@ -22,5 +22,53 @@
     },
     "material": "Oil on canvas",
     "image": "images/002.jpg"
+  },
+  {
+    "id": "003",
+    "title": "Cypress trees",
+    "year": 2018,
+    "size": {
+      "width": 45,
+      "height": 60,
+      "unit": "cm"
+    },
+    "material": "Oil on canvas",
+    "image": "images/0602.jpg"
+  },
+  {
+    "id": "004",
+    "title": "Psychotherapy class face 1",
+    "year": 2020,
+    "size": {
+      "width": 4,
+      "height": 5,
+      "unit": "cm"
+    },
+    "material": "Pen on notebook paper",
+    "image": "images/0712.jpg"
+  },
+  {
+    "id": "005",
+    "title": "Psychotherapy class face 2",
+    "year": 2020,
+    "size": {
+      "width": 4,
+      "height": 5,
+      "unit": "cm"
+    },
+    "material": "Pen on notebook paper",
+    "image": "images/0713.jpg"
+  },
+  {
+    "id": "006",
+    "title": "Coffee cup",
+    "year": 2017,
+    "size": {
+      "width": 20,
+      "height": 23.5,
+      "unit": "cm"
+    },
+    "material": "Oil on canvas",
+    "image": "images/1564.jpg"
   }
 ]
