@@ -252,7 +252,7 @@
     "image": "images/IMG_6037.jpg"
   },
   {
-    "id": "021",
+    "id": "022",
     "title": "Face at the edge",
     "year": 2020,
     "size": {
@@ -262,5 +262,17 @@
     },
     "material": "Pencil on paper",
     "image": "images/IMG_5060.jpg"
+  },
+  {
+    "id": "023",
+    "title": "Blue-brown house",
+    "year": 2024,
+    "size": {
+      "width": "25?",
+      "height": "35?",
+      "unit": "cm"
+    },
+    "material": "Oil on canvas",
+    "image": "images/IMG_4227.jpg"
   }
 ]
