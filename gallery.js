@@ -11,7 +11,7 @@ fetch('paintings.json')
                 <img src="${painting.image}" alt="${painting.title}">
                 <p>${painting.size.width} × ${painting.size.height} ${painting.size.unit}</p>
                 <p>${painting.material}, ${painting.year}</p>
-                <h3>${painting.title}</h3>
+                <p><strong>${painting.title}</strong></p>
             `;
 
             gallery.appendChild(article);
