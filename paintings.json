@@ -12,18 +12,6 @@
     "image": "images/001.jpg"
   },
   {
-    "id": "002",
-    "title": "Young woman",
-    "year": 2019,
-    "size": {
-      "width": 46,
-      "height": 48,
-      "unit": "cm"
-    },
-    "material": "Oil on canvas",
-    "image": "images/002.jpg"
-  },
-  {
     "id": "003",
     "title": "Cypress trees",
     "year": 2018,
@@ -134,7 +122,7 @@
   {
     "id": "012",
     "title": "Reaching hand",
-    "year": 2021,
+    "year": 2020,
     "size": {
       "width": 21,
       "height": 28.5,
@@ -262,6 +250,18 @@
     },
     "material": "Pencil on paper",
     "image": "images/IMG_5060.jpg"
+  },
+  {
+    "id": "002",
+    "title": "Young woman",
+    "year": 2019,
+    "size": {
+      "width": 46,
+      "height": 48,
+      "unit": "cm"
+    },
+    "material": "Oil on canvas",
+    "image": "images/002.jpg"
   },
   {
     "id": "023",
