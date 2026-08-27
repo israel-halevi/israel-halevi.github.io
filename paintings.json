@@ -274,5 +274,41 @@
     },
     "material": "Oil on canvas",
     "image": "images/IMG_4227.jpg"
+  },
+  {
+    "id": "024",
+    "title": "Blue-alizerin house",
+    "year": 2024,
+    "size": {
+      "width": "25",
+      "height": "40",
+      "unit": "cm"
+    },
+    "material": "Oil on canvas",
+    "image": "images/IMG_4601.jpg"
+  },
+  {
+    "id": "025",
+    "title": "Yellow-alizerin house",
+    "year": 2024,
+    "size": {
+      "width": "25",
+      "height": "40",
+      "unit": "cm"
+    },
+    "material": "Oil on canvas",
+    "image": "images/IMG_4942 - cut.png"
+  },
+  {
+    "id": "026",
+    "title": "Pink-green-blue house",
+    "year": 2024,
+    "size": {
+      "width": "25",
+      "height": "40",
+      "unit": "cm"
+    },
+    "material": "Oil on canvas",
+    "image": "images/IMG_4943 - cut.jpg"
   }
 ]
