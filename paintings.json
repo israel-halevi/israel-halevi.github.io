@@ -60,18 +60,6 @@
     "image": "images/IMG-2775.jpg"
   },
   {
-    "id": "018",
-    "title": "Cooking Pot and Pine Cone",
-    "year": 2024,
-    "size": {
-      "width": 34,
-      "height": 21.5,
-      "unit": "cm"
-    },
-    "material": "Oil on canvas",
-    "image": "images/7053.jpg"
-  },
-  {
     "id": "023",
     "title": "Blue-brown house",
     "year": 2024,
@@ -153,7 +141,7 @@
       "unit": "cm"
     },
     "material": "Pencil on paper",
-    "image": "images/21116_115902.jpg"
+    "image": "images/20221116_115902.jpg"
   },
   {
     "id": "014",
@@ -189,7 +177,7 @@
       "unit": "cm"
     },
     "material": "Pencil on paper",
-    "image": "images/21116_115636.jpg"
+    "image": "images/20221116_115636.jpg"
   },
   {
     "id": "004",
@@ -226,6 +214,18 @@
     },
     "material": "Pen on notebook paper",
     "image": "images/0713.jpg"
+  },
+  {
+    "id": "018",
+    "title": "Cooking Pot and Pine Cone",
+    "year": 2020,
+    "size": {
+      "width": 34,
+      "height": 21.5,
+      "unit": "cm"
+    },
+    "material": "Oil on canvas",
+    "image": "images/7053.jpg"
   },
   {
     "id": "016",
