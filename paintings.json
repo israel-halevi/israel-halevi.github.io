@@ -1,183 +1,15 @@
 [
   {
-    "id": "001",
-    "title": "Sabtula (layers)",
-    "year": 2024,
-    "size": {
-      "width": 45.5,
-      "height": 61,
-      "unit": "cm"
-    },
-    "material": "Oil on canvas",
-    "image": "images/001.jpg"
-  },
-  {
-    "id": "003",
-    "title": "Cypress trees",
-    "year": 2018,
-    "size": {
-      "width": 45,
-      "height": 60,
-      "unit": "cm"
-    },
-    "material": "Oil on canvas",
-    "image": "images/0602.jpg"
-  },
-  {
-    "id": "004",
-    "title": "Psychotherapy class face 1",
-    "year": 2020,
-    "size": {
-      "width": 4,
-      "height": 5,
-      "unit": "cm"
-    },
-    "material": "Pen on notebook paper",
-    "image": "images/0712.jpg"
-  },
-  {
-    "id": "005",
-    "title": "Psychotherapy class face 2",
-    "year": 2020,
-    "size": {
-      "width": 4,
-      "height": 5,
-      "unit": "cm"
-    },
-    "material": "Pen on notebook paper",
-    "image": "images/0713.jpg"
-  },
-  {
-    "id": "006",
-    "title": "Coffee cup",
-    "year": 2017,
-    "size": {
-      "width": 20,
-      "height": 23.5,
-      "unit": "cm"
-    },
-    "material": "Oil on canvas",
-    "image": "images/1564.jpg"
-  },
-  {
-    "id": "007",
-    "title": "Meron mountain",
-    "year": 2015,
-    "size": {
-      "width": 55,
-      "height": 75,
-      "unit": "cm"
-    },
-    "material": "Acrylic on canvas",
-    "image": "images/1597.jpg"
-  },
-  {
-    "id": "008",
-    "title": "Drapery with Spoon",
-    "year": 2019,
-    "size": {
-      "width": 49,
-      "height": 34,
-      "unit": "cm"
-    },
-    "material": "Pencil on paper",
-    "image": "images/1618.jpg"
-  },
-  {
-    "id": "009",
-    "title": "Summer in Shomron",
-    "year": 2017,
-    "size": {
-      "width": "40?",
-      "height": "30?",
-      "unit": "cm"
-    },
-    "material": "Acrylic on canvas",
-    "image": "images/1633.jpg"
-  },
-  {
-    "id": "010",
-    "title": "Bench beneath a tree",
-    "year": 2020,
-    "size": {
-      "width": 35,
-      "height": 42,
-      "unit": "cm"
-    },
-    "material": "Pencil on paper",
-    "image": "images/4716.jpg"
-  },
-  {
-    "id": "011",
-    "title": "Child's head",
-    "year": 2021,
-    "size": {
-      "width": 21,
-      "height": 28.5,
-      "unit": "cm"
-    },
-    "material": "Pencil on paper",
-    "image": "images/20221116_115424.jpg"
-  },
-  {
-    "id": "012",
-    "title": "Reaching hand",
-    "year": 2020,
-    "size": {
-      "width": 21,
-      "height": 28.5,
-      "unit": "cm"
-    },
-    "material": "Pencil on paper",
-    "image": "images/20221116_115636.jpg"
-  },
-  {
-    "id": "013",
-    "title": "Relaxed hand",
-    "year": 2021,
-    "size": {
-      "width": 21,
-      "height": 28.5,
-      "unit": "cm"
-    },
-    "material": "Pencil on paper",
-    "image": "images/20221116_115902.jpg"
-  },
-  {
-    "id": "014",
-    "title": "Outstretched hand",
-    "year": 2021,
-    "size": {
-      "width": 21,
-      "height": 28.5,
-      "unit": "cm"
-    },
-    "material": "Pencil on paper",
-    "image": "images/IMG_E1586_21cm_28.5cm.jpg"
-  },
-  {
-    "id": "015",
-    "title": "Neighbors",
-    "year": 2017,
+    "id": "020",
+    "title": "Pardes Hanna field",
+    "year": 2025,
     "size": {
       "width": 80,
-      "height": 60,
+      "height": 100,
       "unit": "cm"
     },
-    "material": "Acrylic on canvas",
-    "image": "images/IMG_E1596.jpg"
-  },
-  {
-    "id": "016",
-    "title": "Lit kitchen",
-    "year": 2019,
-    "size": {
-      "width": 54.5,
-      "height": 79,
-      "unit": "cm"
-    },
-    "material": "Acrylic on canvas",
-    "image": "images/IMG_E1601.jpg"
+    "material": "Oil on canvas",
+    "image": "images/IMG_5450.jpg"
   },
   {
     "id": "017",
@@ -202,66 +34,6 @@
     },
     "material": "Oil on canvas",
     "image": "images/7053.jpg"
-  },
-  {
-    "id": "019",
-    "title": "Jerusalem",
-    "year": 2019,
-    "size": {
-      "width": 100,
-      "height": 70,
-      "unit": "cm"
-    },
-    "material": "Acrylic on canvas",
-    "image": "images/IMG_E1574.jpg"
-  },
-  {
-    "id": "020",
-    "title": "Pardes Hanna field",
-    "year": 2025,
-    "size": {
-      "width": 80,
-      "height": 100,
-      "unit": "cm"
-    },
-    "material": "Oil on canvas",
-    "image": "images/IMG_5450.jpg"
-  },
-  {
-    "id": "021",
-    "title": "Flowers on a tree",
-    "year": 2016,
-    "size": {
-      "width": "70?",
-      "height": "55?",
-      "unit": "cm"
-    },
-    "material": "Acrylic on canvas",
-    "image": "images/IMG_6037.jpg"
-  },
-  {
-    "id": "022",
-    "title": "Face at the edge",
-    "year": 2020,
-    "size": {
-      "width": 21,
-      "height": 28.5,
-      "unit": "cm"
-    },
-    "material": "Pencil on paper",
-    "image": "images/IMG_5060.jpg"
-  },
-  {
-    "id": "002",
-    "title": "Young woman",
-    "year": 2019,
-    "size": {
-      "width": 46,
-      "height": 48,
-      "unit": "cm"
-    },
-    "material": "Oil on canvas",
-    "image": "images/002.jpg"
   },
   {
     "id": "023",
@@ -310,5 +82,233 @@
     },
     "material": "Oil on canvas",
     "image": "images/IMG_4943 - cut.jpg"
+  },
+  {
+    "id": "001",
+    "title": "Sabtula (layers)",
+    "year": 2024,
+    "size": {
+      "width": 45.5,
+      "height": 61,
+      "unit": "cm"
+    },
+    "material": "Oil on canvas",
+    "image": "images/001.jpg"
+  },
+  {
+    "id": "011",
+    "title": "Child's head",
+    "year": 2021,
+    "size": {
+      "width": 21,
+      "height": 28.5,
+      "unit": "cm"
+    },
+    "material": "Pencil on paper",
+    "image": "images/20221116_115424.jpg"
+  },
+  {
+    "id": "013",
+    "title": "Relaxed hand",
+    "year": 2021,
+    "size": {
+      "width": 21,
+      "height": 28.5,
+      "unit": "cm"
+    },
+    "material": "Pencil on paper",
+    "image": "images/20221116_115902.jpg"
+  },
+  {
+    "id": "014",
+    "title": "Outstretched hand",
+    "year": 2021,
+    "size": {
+      "width": 21,
+      "height": 28.5,
+      "unit": "cm"
+    },
+    "material": "Pencil on paper",
+    "image": "images/IMG_E1586_21cm_28.5cm.jpg"
+  },
+  {
+    "id": "010",
+    "title": "Bench beneath a tree",
+    "year": 2020,
+    "size": {
+      "width": 35,
+      "height": 42,
+      "unit": "cm"
+    },
+    "material": "Pencil on paper",
+    "image": "images/4716.jpg"
+  },
+  {
+    "id": "012",
+    "title": "Reaching hand",
+    "year": 2020,
+    "size": {
+      "width": 21,
+      "height": 28.5,
+      "unit": "cm"
+    },
+    "material": "Pencil on paper",
+    "image": "images/20221116_115636.jpg"
+  },
+  {
+    "id": "004",
+    "title": "Psychotherapy class face 1",
+    "year": 2020,
+    "size": {
+      "width": 4,
+      "height": 5,
+      "unit": "cm"
+    },
+    "material": "Pen on notebook paper",
+    "image": "images/0712.jpg"
+  },
+  {
+    "id": "022",
+    "title": "Face at the edge",
+    "year": 2020,
+    "size": {
+      "width": 21,
+      "height": 28.5,
+      "unit": "cm"
+    },
+    "material": "Pencil on paper",
+    "image": "images/IMG_5060.jpg"
+  },
+  {
+    "id": "005",
+    "title": "Psychotherapy class face 2",
+    "year": 2020,
+    "size": {
+      "width": 4,
+      "height": 5,
+      "unit": "cm"
+    },
+    "material": "Pen on notebook paper",
+    "image": "images/0713.jpg"
+  },
+  {
+    "id": "016",
+    "title": "Lit kitchen",
+    "year": 2019,
+    "size": {
+      "width": 54.5,
+      "height": 79,
+      "unit": "cm"
+    },
+    "material": "Acrylic on canvas",
+    "image": "images/IMG_E1601.jpg"
+  },
+  {
+    "id": "002",
+    "title": "Young woman",
+    "year": 2019,
+    "size": {
+      "width": 46,
+      "height": 48,
+      "unit": "cm"
+    },
+    "material": "Oil on canvas",
+    "image": "images/002.jpg"
+  },
+  {
+    "id": "019",
+    "title": "Jerusalem",
+    "year": 2019,
+    "size": {
+      "width": 100,
+      "height": 70,
+      "unit": "cm"
+    },
+    "material": "Acrylic on canvas",
+    "image": "images/IMG_E1574.jpg"
+  },
+  {
+    "id": "008",
+    "title": "Drapery with Spoon",
+    "year": 2019,
+    "size": {
+      "width": 49,
+      "height": 34,
+      "unit": "cm"
+    },
+    "material": "Pencil on paper",
+    "image": "images/1618.jpg"
+  },
+  {
+    "id": "003",
+    "title": "Cypress trees",
+    "year": 2018,
+    "size": {
+      "width": 45,
+      "height": 60,
+      "unit": "cm"
+    },
+    "material": "Oil on canvas",
+    "image": "images/0602.jpg"
+  },
+  {
+    "id": "006",
+    "title": "Coffee cup",
+    "year": 2017,
+    "size": {
+      "width": 20,
+      "height": 23.5,
+      "unit": "cm"
+    },
+    "material": "Oil on canvas",
+    "image": "images/1564.jpg"
+  },
+  {
+    "id": "009",
+    "title": "Summer in Shomron",
+    "year": 2017,
+    "size": {
+      "width": "40?",
+      "height": "30?",
+      "unit": "cm"
+    },
+    "material": "Acrylic on canvas",
+    "image": "images/1633.jpg"
+  },
+  {
+    "id": "015",
+    "title": "Neighbors",
+    "year": 2017,
+    "size": {
+      "width": 80,
+      "height": 60,
+      "unit": "cm"
+    },
+    "material": "Acrylic on canvas",
+    "image": "images/IMG_E1596.jpg"
+  },
+  {
+    "id": "021",
+    "title": "Flowers on a tree",
+    "year": 2016,
+    "size": {
+      "width": "70?",
+      "height": "55?",
+      "unit": "cm"
+    },
+    "material": "Acrylic on canvas",
+    "image": "images/IMG_6037.jpg"
+  },
+  {
+    "id": "007",
+    "title": "Meron mountain",
+    "year": 2015,
+    "size": {
+      "width": 55,
+      "height": 75,
+      "unit": "cm"
+    },
+    "material": "Acrylic on canvas",
+    "image": "images/1597.jpg"
   }
 ]
