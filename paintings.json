@@ -1,4 +1,41 @@
+// Max id: 29
 [
+  {
+    "id": "029",
+    "title": "Building in Pardes Hanna 3 (Paradise)",
+    "year": 2026,
+    "size": {
+      "width": 25,
+      "height": 39,
+      "unit": "cm"
+    },
+    "material": "Oil on canvas",
+    "image": "images/IMG_7278.jpg"
+  },
+  {
+    "id": "028",
+    "title": "Building in Pardes Hanna 2",
+    "year": 2025,
+    "size": {
+      "width": 15,
+      "height": 21,
+      "unit": "cm"
+    },
+    "material": "Aquarelle",
+    "image": "images/IMG_7139_cut.jpg"
+  },
+  {
+    "id": "027",
+    "title": "Building in Pardes Hanna 1",
+    "year": 2025,
+    "size": {
+      "width": 15,
+      "height": 21,
+      "unit": "cm"
+    },
+    "material": "Aquarelle",
+    "image": "images/IMG_5820.jpg"
+  },
   {
     "id": "020",
     "title": "Pardes Hanna field",
@@ -105,7 +142,7 @@
       "unit": "cm"
     },
     "material": "Pencil on paper",
-    "image": "images/20221116_115424.jpg"
+    "image": "images/21116_115424.jpg"
   },
   {
     "id": "013",
@@ -117,7 +154,7 @@
       "unit": "cm"
     },
     "material": "Pencil on paper",
-    "image": "images/20221116_115902.jpg"
+    "image": "images/21116_115902.jpg"
   },
   {
     "id": "014",
@@ -153,7 +190,7 @@
       "unit": "cm"
     },
     "material": "Pencil on paper",
-    "image": "images/20221116_115636.jpg"
+    "image": "images/21116_115636.jpg"
   },
   {
     "id": "004",
@@ -168,7 +205,7 @@
     "image": "images/0712.jpg"
   },
   {
-    "id": "022",
+    "id": "",
     "title": "Face at the edge",
     "year": 2020,
     "size": {
